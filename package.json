@@ -1,0 +1,23 @@
+{
+  "name": "automation_farmacorp_test_cases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrygo-c-garcia/automation_farmacorp_test_cases.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rodrygo-c-garcia/automation_farmacorp_test_cases/issues"
+  },
+  "homepage": "https://github.com/rodrygo-c-garcia/automation_farmacorp_test_cases#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.1",
+    "@types/node": "^24.0.3"
+  }
+}
